@@ -1,4 +1,4 @@
-API
+APIV2
 =====
 
 .. _installation:
